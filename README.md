@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leweth
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning C
 - 📫 How to reach me: black.melio on isnta
 
 <!---
