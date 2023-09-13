@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leweth
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
-- 📫 How to reach me: regular.user.001 on isnta
+- 📫 How to reach me: black.melio on isnta
 
 <!---
 leweth/leweth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
