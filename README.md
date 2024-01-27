@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @leweth
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C
-- 📫 How to reach me: black.melio on isnta
+- 👀 I’m interested in CS and AI
+- 📫 How to reach me: black.melio on insta
 
 <!---
 leweth/leweth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
