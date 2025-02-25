@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leweth
 - 👀 I’m interested in CS and AI
-- 📫 How to reach me: black.melio on insta
+- 📫 How to reach me: med.walid.ss on insta
 
 <!---
 leweth/leweth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
