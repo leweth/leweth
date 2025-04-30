@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leweth
 - 👀 I’m interested in CS and AI
-- 📫 How to reach me: Mohamed Walid Ben Yahia on LinkedIn
+- 📫 How to reach me: [Mohamed Walid Ben Yahia](https://www.linkedin.com/in/medwalid/) on LinkedIn
 
 <!---
 leweth/leweth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
