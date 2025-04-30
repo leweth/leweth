@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @leweth
+- 👋 Hi, I’m Mohamed Walid
 - 👀 I’m interested in CS and AI
 - 📫 How to reach me: [Mohamed Walid Ben Yahia](https://www.linkedin.com/in/medwalid/) on LinkedIn
 
